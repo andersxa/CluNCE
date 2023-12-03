@@ -38,5 +38,5 @@ python train.py --clustering protonce --dataset imagenet --model resnet50 --late
 ```
 To train a CluNCE model on the ImageNet dataset with a ResNet50 model and a latent dimension of 128, a temperature of 0.2, a queue size of 8192 and 300 prototypes, run the following command:
 ```
-python train.py --clustering clunce --dataset imagenet --model resnet50 --latent-dim 128 --temperature 0.2 --num-initial-microclusters 8192 --delta-timestamp 0.01
+python train.py --clustering clustream --dataset imagenet --model resnet50 --latent-dim 128 --temperature 0.2 --num-initial-microclusters 8192 --delta-timestamp 0.01
 ```
