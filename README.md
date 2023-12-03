@@ -8,7 +8,7 @@ And install Weights & Biases from here: https://docs.wandb.ai/quickstart
 
 Then install this library as follows:
 ```
-pip install pip install git+https://github.com/andersxa/clunce.git
+pip install git+https://github.com/andersxa/clunce.git
 ```
 
 # Usage:
